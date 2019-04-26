@@ -2,7 +2,7 @@
 layout: post
 title:  "3 Years in Kanpur"
 date:   2017-11-06
-desc: 
+avatar: "img/3_years.jpg"
 keywords: ""
 categories: [Bio]
 tags: []

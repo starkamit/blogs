@@ -1,12 +1,10 @@
 ---
-layout: post
-title:  "3 Years in Kanpur"
-date:   2017-11-06
-avatar: "img/3_years.jpg"
-keywords: ""
-categories: [Bio]
-tags: []
-icon: 
+title:  "3 Yearsin Kanpur"
+subtitle: "A beautiful journey"
+author: "praps"
+avatar: "img/authors/wferr.png"
+image: "img/3_years.jpg"
+date:   2019-04-27 12:12:12
 ---
 
 Hey guys, Its Praphul. Are you a Kanpurite? If Yes, I wanted you to catch the page. I remained a student of class XI and XII from

@@ -1,5 +1,5 @@
 ---
-title:  "3 Yearsin Kanpur"
+title:  "3 Years in Kanpur"
 subtitle: "A beautiful journey"
 author: "praps"
 avatar: "img/authors/wferr.png"

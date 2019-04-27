@@ -3,7 +3,7 @@ title:  "3 Years in Kanpur"
 subtitle: "A beautiful journey"
 author: "praps"
 avatar: "img/authors/wferr.png"
-image: "img/3-years.jpg"
+image: "img/lake-view.jpg"
 date:   2019-04-27 12:12:12
 ---
 

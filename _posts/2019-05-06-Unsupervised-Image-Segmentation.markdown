@@ -23,6 +23,6 @@ Let $x_n$ be the feature vector for the $n_{th}$ pixel in the image and $f(x_n)$
 
 For good segmentation, certain characteristics are required for the cluster label $c_n$. Instance of any object contains patches of similar texture patterns. This is taken into account while performing the segmentation. Hence, spatially continuous pixels that have similar color and texture patterns should be grouped together. On the other hand, different object instances should be categorized separately. To facilitate this cluster separation, the number of cluster labels is desired to be large. CNN architecture is used to extract the pixel features. This CNN assigns the cluster labels to image pixels and updates the convolutional filters for better separation of clusters. Backpropagation of softmax loss is used to update the network. The model architecture is given below:
 
-![png](1.png)
+![png](img/1.png)
 
 

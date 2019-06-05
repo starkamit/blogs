@@ -3,5 +3,5 @@ title: Amazon of spiders
 description: Blog of spiders
 keywords: Tutorial, Machine Learning
 author: Praphul Singh
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "/blogs" # the subpath of your site, e.g. /blog/
 url: "https://starkamit.github.io" # the base hostname & protocol for your site
